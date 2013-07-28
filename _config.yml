@@ -1,21 +1,21 @@
-title:            Site Title
-description:      Describe your website here.
+title:            enrico stano
+description:      QA / CI / automated testing @ Teambox.com
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://enricostano.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           enrico stano
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          enricostn@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        enricostano
   facebook:       
-  github:         
+  github:         enricostano
   stackexchange:  
-  linkedin:       
+  linkedin:       enricostano
   instagram:      
   flickr:         
   tumblr:         
@@ -37,12 +37,9 @@ links:
     url: /articles
   - title: Theme Setup
     url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Madrid
 future:      true
 pygments:    true
 markdown:    kramdown

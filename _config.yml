@@ -1,5 +1,5 @@
 title:            enrico stano
-description:      QA / CI / automated testing @ Teambox.com
+description:      QA / CI / test automation @ Teambox.com
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
@@ -35,8 +35,6 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid

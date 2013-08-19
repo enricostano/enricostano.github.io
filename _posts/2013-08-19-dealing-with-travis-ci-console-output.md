@@ -6,7 +6,6 @@ modified: 2013-08-19
 category: articles
 tags: [continuous integration, Travis CI]
 comments: true
-draft: true
 ---
 
 When we work with Ruby projects, [Travis CI](https://travis-ci.org/){:target="_blank"} will run [by default](http://about.travis-ci.org/docs/user/languages/ruby/#Default-Test-Script){:target="_blank"} our `rake test` recipe. But what if we need to run many scripts at the same time?

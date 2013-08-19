@@ -1,7 +1,7 @@
 title:            enrico stano
 description:      QA / CI / test automation @ <a href='https://www.teambox.com/' target='_blank'>Teambox.com</a>
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: enricostano
 #Comment out url when working locally to resolve base urls correctly
 url:              http://enricostano.github.io
 
